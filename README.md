@@ -10,6 +10,7 @@
 1. Bağımlılıkları yükleyin:
    ```terminal
    go mod tidy
+   
 2. Uygulamayı başlatın:
    ```terminal
    go run main.go
